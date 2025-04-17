@@ -1,4 +1,5 @@
 // Can Deniz Gökgedik - 20050111057
-https://candenizgokgedik.github.io/ceng311inclass/inclass-Activity7/index.html
+https://candenizgokgedik.github.io/ceng311inclass/inclass-Activity7/kandemirgokgedik-Activity7.html
 
 // Beyhan Kandemir - 20050111051
+https://beykn.github.io/InClassActivity/Activity7/kandemirgokgedik-Activity7.html
